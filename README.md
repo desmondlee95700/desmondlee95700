@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Desmond Lee</h1>
-<h3 align="center">A mobile developer expertise in developijng Native Android and Flutter Apps using Dart</h3>
+<h3 align="center">A mobile developer expertise in developing Native Android and Flutter Apps using Dart</h3>
 
 - 📫 How to reach me **desmondleekk95@gmail.com**
 

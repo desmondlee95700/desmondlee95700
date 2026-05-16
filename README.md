@@ -15,14 +15,6 @@ I specialize in building high-performance mobile applications with **Native Andr
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=desmondlee95700&show_icons=true&theme=radical" alt="Desmond's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desmondlee95700&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/desmond-lee-1731381b0" target="blank">

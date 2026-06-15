@@ -32,7 +32,7 @@ I specialize in building high-performance mobile applications with **Native iOS*
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=desmondlee95700&show_icons=true&theme=transparent" alt="Desmond's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=desmondlee95700&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Desmond's GitHub stats" />
 </div>
 
 ---

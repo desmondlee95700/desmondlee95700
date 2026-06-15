@@ -3,14 +3,16 @@
   <h3>Mobile Developer | Crafting Seamless Native & Cross-Platform Experiences</h3>
 </div>
 
-I specialize in building high-performance mobile applications with **Native Android** and **Flutter**. I focus on writing clean, maintainable code and creating user-centric interfaces that bridge the gap between design and functionality.
+I specialize in building high-performance mobile applications with **Native iOS**, **Android**, and **Flutter**. I focus on writing clean, maintainable code and creating user-centric interfaces that bridge the gap between design and functionality.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Mobile Development**  
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
